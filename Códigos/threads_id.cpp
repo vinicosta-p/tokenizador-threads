@@ -107,8 +107,5 @@ int main(int argc, char *argv[]) {
     // FIM DA LEITURA E ESCRITA DE ARQUIVOS
 
     // FUNC 2: PARALELIZANDO A IDENTIFICAÇÃO DE ID E ESCRITA DE ARQUIVO
-
-    
-    int a = 0;
     return 0;
 }
